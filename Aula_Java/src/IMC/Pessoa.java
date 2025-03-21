@@ -31,31 +31,4 @@ public class Pessoa {
     public void calcular_IMC(){
         IMC = peso/(altura*altura);
     }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 }

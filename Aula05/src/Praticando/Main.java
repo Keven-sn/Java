@@ -22,7 +22,9 @@ public class Main {
         System.out.println("Digite sua terceira nota: ");
         a.nota3 = sc.nextDouble();
 
-        System.out.println("Sua média é: " + a.media);
+        a.calcule_media();
+
+        System.out.println("Sua média é: " + a.getMedia());
 
 
     }

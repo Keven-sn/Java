@@ -39,12 +39,14 @@ public class Aluno {
     }
 
     public double getMedia() {
+        calcule_media();
         return media;
     }
 
     public void setMedia(double media) {
         this.media = media;
     }
+
 
     public void calcule_media(){
         media = (nota1 + nota2 + nota3) / 3;
