@@ -11,7 +11,7 @@ public class Main03 {
         Produto produto = new Produto("Produto Exemplo", 50.0,100);
 
         while (true) {
-            // Exibe o menu para o usuário
+
             System.out.println("\nEscolha uma opção:");
             System.out.println("1 - Adicionar estoque");
             System.out.println("2 - Vender produto");
