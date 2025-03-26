@@ -9,6 +9,7 @@ public class Main {
         Produto produto = null;
 
         System.out.println("Cadastro do produto:");
+
         System.out.print("Digite o código do produto: ");
         int codigo = scanner.nextInt();
         scanner.nextLine();
@@ -50,7 +51,7 @@ public class Main {
                 case 3:
                     System.out.println("Escolha a forma de pagamento:");
                     System.out.println("1 - Pix, Espécie, Transferência ou Débito");
-                    System.out.println("2 - Crédito (Parcelamento em 3x sem juros)");
+                    System.out.println("2 - Crédito (Parcelamento até 12x, até 3x sem juros)");
 
                     int formaPagamento = scanner.nextInt();
                     Pagamento pagamento = new Pagamento();
