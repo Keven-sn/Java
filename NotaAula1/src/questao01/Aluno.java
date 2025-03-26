@@ -5,7 +5,6 @@ public class Aluno {
     private String nome;
     private double nota1, nota2, nota3, media;
 
-    // Métodos Getters e Setters
     public String getNome() {
         return nome;
     }
@@ -39,7 +38,7 @@ public class Aluno {
     }
 
     public double getMedia() {
-        return media; // Agora `media` já está calculada antes de ser chamada
+        return media;
     }
 
     public void calcule_media() {
