@@ -2,12 +2,14 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/ProjetoFinal/Academia/Academia.iml" filepath="$PROJECT_DIR$/ProjetoFinal/Academia/Academia.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula 1/Aula 1.iml" filepath="$PROJECT_DIR$/Aula 1/Aula 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula05/Aula05.iml" filepath="$PROJECT_DIR$/Aula05/Aula05.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aula_Java/Aula_Java.iml" filepath="$PROJECT_DIR$/Aula_Java/Aula_Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotaAula02/NotaAula02.iml" filepath="$PROJECT_DIR$/NotaAula02/NotaAula02.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotaAula1/NotaAula1.iml" filepath="$PROJECT_DIR$/NotaAula1/NotaAula1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" filepath="$PROJECT_DIR$/ProjetoFinal/ProjetoFinal.iml" />
       <module fileurl="file://$PROJECT_DIR$/NotaAula1/questao03/questao03.iml" filepath="$PROJECT_DIR$/NotaAula1/questao03/questao03.iml" />
     </modules>
   </component>
